@@ -19,3 +19,4 @@ print("The var num1 is of type " + str(type(num1)) + ". \n")
 print("New variable created, called word0, with a value of " + str(word0) + ". \n")
 
 print("The new variable is of type " + str(type(word0)) + ". \n")
+
